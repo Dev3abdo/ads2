@@ -3,17 +3,17 @@
         "show_ads": true,
         "bannerAd": "max",
         "InterAd": "max",
-        "NativeAd": "max",
+        "NativeAd": "admob",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+        "admob_native": "ca-app-pub-1006668173301448/2647358412",
         "facebook_banner": "",
         "facebook_inter": "",
         "facebook_native": "",
         "ironsource_api": "",
-        "max_banner": "",
-        "max_inter": "",
-        "max_native": "",
+        "max_banner": "2b7858ad75a807f9",
+        "max_inter": "1d66625f48d128a4",
+        "max_native": "c6b1782da2f8e4fd",
         "unityTest": true,
         "unityGameID": "",
         "unityBanner": "Banner",
@@ -25,94 +25,94 @@
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "https://play.google.com/store/apps/developer?id=Patlsapp",
+        "btn_more_url": "https://play.google.com/store/apps/developer?id=AmbuSoft",
         "items_data": [{
-                "title": "STEP1",
-                "image": "",
+                "title": "Intro",
+                "image": "https://www.videoconverterfactory.com/tips/imgs-self/myvidster-downloader/myvidster-downloader-1.jpg",
 				"detail": [{
 					"image": "",
-					"text": "",
+					"text": "The MyVidster Android app is available for download from the Google Play store. Once you have downloaded and installed the app, you can sign in to your MyVidster account or create a new one.  To browse videos on MyVidster, you can use the search function to look for specific keywords, or you can browse through the categories listed in the app. You can also follow other users to see the videos they have added to their playlists.  To add a video to your own playlist, tap on the video to open it and then tap the 'Add to Playlist' button. You can create a new playlist or add the video to an existing one.  To share a video with others, tap the 'Share' button and choose how you want to share the video (e.g., via email, text message, or social media).",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_title": "Download MyVidster APK",
+					"cpa_url": "https://virasport.blogspot.com/2023/01/myvidster-apk.html"
 				},
 				{
 					"image": "",
 					"text": "",
 					"native": true,
-					"cpa_title": "Open",
+					"cpa_title": "",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP2",
-                "image": "",
+                "title": "How To Use MyDivster?",
+                "image": "https://i.ytimg.com/vi/aCqaTWJ6yfs/maxresdefault.jpg",
                 "detail": [{
 					"image": "",
-					"text": "",
+					"text": "Here are a few important tips to keep in mind when using the MyVidster app:  Protect your privacy: Be mindful of the information you share about yourself on MyVidster. Consider using a pseudonym instead of your real name, and avoid sharing personal information such as your address or phone number.  Respect copyright laws: Do not upload or share videos that you do not have the rights to. This includes videos that are protected by copyright, as well as videos that may contain sensitive or confidential information.  Be respectful of others: MyVidster is a community platform, so be respectful of others when commenting on videos or interacting with other users. Do not use hateful or abusive language or harass others.  Report inappropriate content: If you see content on MyVidster that violates the terms of service or is otherwise inappropriate, you can report it by tapping the 'Report' button. This will allow MyVidster to review the content and take appropriate action if necessary.  Use the app safely: Be mindful of your safety when using the MyVidster app. Do not share personal information or meet up with people you meet on the app.",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_title": "Download MyVidster APK",
+					"cpa_url": "https://virasport.blogspot.com/2023/01/myvidster-apk.html"
+				},
+				{
+					"image": "",
+					"text": "Here are a few more things you can do to use MyVidster app:  Comment on videos: Tap on a video to open it, and then tap the 'Comment' button to leave a comment on the video. You can also reply to other people's comments.  Like videos: To show your appreciation for a video, tap the 'Like' button. You can also view the number of likes a video has received by tapping the 'Likes' count.  Download videos: Some videos on MyVidster can be downloaded for offline viewing. To download a video, tap on the video to open it and then tap the 'Download' button. The video will be saved to your device so you can watch it anytime, even without an internet connection.  Manage your playlists: You can view your playlists by tapping the 'Playlists' tab in the app. From here, you can add or remove videos, rename your playlists, or delete them entirely.",
+					"native": true,
+					"cpa_title": "Download MyVidster APK",
+					"cpa_url": "https://virasport.blogspot.com/2023/01/myvidster-apk.html"
+				}
+				]
+            }, {
+                "title": "Download And Install MyDivster",
+                "image": "https://3.bp.blogspot.com/-YGho_f8mf-A/ThTX-X_Sp5I/AAAAAAAAALY/3bAH19yoL04/s1600/video_shuffle_pop.jpg",
+                "detail": [{
+					"image": "",
+					"text": "To download and install the MyVidster app on your Android device, follow these steps:  Open the Google Play Store app on your device. Use the search function to find 'MyVidster.' Tap the 'Install' button to download and install the app. Wait for the app to finish downloading and installing. Once the installation is complete, tap the 'Open' button to launch the app.",
+					"native": true,
+					"cpa_title": "Download MyVidster APK",
+					"cpa_url": "https://virasport.blogspot.com/2023/01/myvidster-apk.html"
+				},
+				{
+					"image": "",
+					"text": "If you don't have the Google Play Store app on your device, you can download it from the web and install it manually. To do this, follow these steps:  Open a web browser and go to the Google Play Store website (https://play.google.com/store). Search for 'MyVidster' and select the app from the search results. Tap the 'Install' button. If you are not signed in to your Google account, you will be prompted to sign in. Follow the on-screen instructions to sign in to your account. Select the device you want to install the app on and tap the 'Install' button. Wait for the app to finish downloading and installing. Once the installation is complete, the app will be available on your device.",
+					"native": true,
+					"cpa_title": "Download MyVidster APK",
+					"cpa_url": "https://virasport.blogspot.com/2023/01/myvidster-apk.html"
+				}
+				]
+            }, {
+                "title": "MyVidster Features",
+                "image": "https://www.shutterstock.com/shutterstock/photos/1107062153/display_1500/stock-photo-ryazan-russia-june-homepage-of-myvidster-website-on-the-display-of-pc-url-myvidster-1107062153.jpg",
+                "detail": [{
+					"image": "",
+					"text": "Here are some of the features of the MyVidster app: Social video sharing: MyVidster is a social video sharing platform that allows users to share and discover new videos. You can create your own profile, follow other users, and add videos to your own personal playlist. You can also share your playlists with others and comment on videos. Video categories: MyVidster has a variety of categories to browse through, including popular, trending, and recently added videos. You can also search for videos using keywords. Playlists: You can create your own playlists and add videos to them. You can also follow other users to see the videos they have added to their playlists. Download videos: Some videos on MyVidster can be downloaded for offline viewing. You can download videos to your device and watch them anytime, even without an internet connection. Comment and like: You can leave comments on videos and like videos to show your appreciation.",
+					"native": true,
+					"cpa_title": "Download MyVidster APK",
+					"cpa_url": "https://virasport.blogspot.com/2023/01/myvidster-apk.html"
 				},
 				{
 					"image": "",
 					"text": "",
 					"native": true,
-					"cpa_title": "Open",
+					"cpa_title": "",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP3",
-                "image": "",
+                "title": "MyVidster app properly",
+                "image": "https://i.ytimg.com/vi/vPPPAuTDJHI/maxresdefault.jpg",
                 "detail": [{
 					"image": "",
-					"text": "",
+					"text": "Follow the terms of service: Be sure to read and follow the MyVidster terms of service, which outline the rules for using the app and the consequences for breaking them.  Respect copyright laws: Do not upload or share videos that you do not have the rights to. This includes videos that are protected by copyright, as well as videos that may contain sensitive or confidential information.  Be mindful of your privacy: When creating a profile on MyVidster, be mindful of the information you share about yourself. You may want to consider using a pseudonym or pseudonym instead of your real name, and avoid sharing personal information such as your address or phone number.  Use appropriate language: MyVidster is a community platform, so be respectful of others when commenting on videos or interacting with other users. Do not use hateful or abusive language or harass others.  Report inappropriate content: If you see content on MyVidster that violates the terms of service or is otherwise inappropriate, you can report it by tapping the 'Report' button. This will allow MyVidster to review the content and take appropriate action if necessary.",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_title": "Download MyVidster APK",
+					"cpa_url": "https://virasport.blogspot.com/2023/01/myvidster-apk.html"
 				},
 				{
 					"image": "",
 					"text": "",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
-				}
-				]
-            }, {
-                "title": "STEP4",
-                "image": "",
-                "detail": [{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
-				}
-				]
-            }, {
-                "title": "STEP5",
-                "image": "",
-                "detail": [{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
+					"cpa_title": "",
 					"cpa_url": ""
 				}
 				]
