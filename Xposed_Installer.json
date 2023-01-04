@@ -31,17 +31,17 @@
                 "image": "https://www.howtogeek.com/wp-content/uploads/2016/12/650x300xIMG_9047-650x300.jpg.pagespeed.gpjpjwpjjsrjrprwricpmd.ic_.7OI-JJVlLW-650x300.jpg",
 				"detail": [{
 					"image": "",
-					"text": "Xposed Installer is a tool that allows users to install various 'modules' which can add custom features and functionality to Android devices. These modules can allow users to customize their device in ways that the manufacturer or Android operating system (OS) might not allow. In order to use Xposed Installer, you need to have a device with an unlocked bootloader and a custom recovery tool installed, such as TWRP.  Here is a guide on how to install Xposed Installer on your Android device:  -Download the Xposed Installer APK file from the https://virasport.blogspot.com/2023/01/xposed-installer-apk.html Bellow.  -Install the APK file by navigating to the download location and tapping on the file. You may need to enable the installation of apps from unknown sources in your device's security settings.  -Once the app is installed, launch it and grant it the necessary permissions.  -In the main menu, tap on the 'Install/Update' button to begin the installation process.  -The app will download the necessary files and then prompt you to reboot your device into recovery mode.  ",
+					"text": "Xposed Installer is a tool that allows users to install various 'modules' which can add custom features and functionality to Android devices. These modules can allow users to customize their device in ways that the manufacturer or Android operating system (OS) might not allow. In order to use Xposed Installer, you need to have a device with an unlocked bootloader and a custom recovery tool installed, such as TWRP.  Here is a guide on how to install Xposed Installer on your Android device:  -Download the Xposed Installer APK file from the https://sites.google.com/view/xposed-installer-app/home Bellow.  -Install the APK file by navigating to the download location and tapping on the file. You may need to enable the installation of apps from unknown sources in your device's security settings.  -Once the app is installed, launch it and grant it the necessary permissions.  -In the main menu, tap on the 'Install/Update' button to begin the installation process.  -The app will download the necessary files and then prompt you to reboot your device into recovery mode.  ",
 					"native": true,
 					"cpa_title": "Download Xposed Installer APK",
-					"cpa_url": "https://virasport.blogspot.com/2023/01/xposed-installer-apk.html"
+					"cpa_url": "https://sites.google.com/view/xposed-installer-app/home"
 				},
 				{
 					"image": "",
 					"text": "-Use your custom recovery tool to install the Xposed framework. This will typically involve selecting the 'Install' option in your recovery tool and then navigating to the location where you saved the Xposed Installer ZIP file.  -Once the installation is complete, reboot your device.  -After your device has restarted, launch the Xposed Installer app again and verify that the installation was successful by checking the version number in the main menu.  -You can now begin installing modules to customize your device. To do this, tap on the 'Download' option in the main menu and browse the available modules. When you find a module you want to install, tap on the 'Download' button and then follow the on-screen instructions to complete the installation.  ",
 					"native": true,
 					"cpa_title": "Download Xposed Installer APK",
-					"cpa_url": "https://virasport.blogspot.com/2023/01/xposed-installer-apk.html"
+					"cpa_url": "https://sites.google.com/view/xposed-installer-app/home"
 				}
 				]
             }, {
@@ -52,14 +52,14 @@
 					"text": "Here are a few additional tips for using Xposed Installer:  Be careful when installing modules, as some of them may not be compatible with your device or may cause problems if used improperly. It is always a good idea to read the description and reviews of a module before installing it.  Some modules may require you to configure them in order to work properly. To do this, simply tap on the module in the Xposed Installer app and follow the on-screen instructions.  If you encounter any issues while using Xposed Installer or a particular module, you can try disabling or uninstalling the module to see if that resolves the problem. You can do this by going to the 'Modules' section of the Xposed Installer app and unchecking the box next to the module you want to disable.  If you need to uninstall Xposed Installer entirely, you can do so by going to the 'Uninstall' option in the main menu and following the on-screen instructions. Keep in mind that this will remove all modules and restore your device to its original state.",
 					"native": true,
 					"cpa_title": "Download Xposed Installer APK",
-					"cpa_url": "https://virasport.blogspot.com/2023/01/xposed-installer-apk.html"
+					"cpa_url": "https://sites.google.com/view/xposed-installer-app/home"
 				},
 				{
 					"image": "",
 					"text": "",
 					"native": true,
 					"cpa_title": "Download Xposed Installer APK",
-					"cpa_url": "https://virasport.blogspot.com/2023/01/xposed-installer-apk.html"
+					"cpa_url": "https://sites.google.com/view/xposed-installer-app/home"
 				}
 				]
             }, {
@@ -70,14 +70,14 @@
 					"text": "Here are a few additional features and capabilities of Xposed Installer:  Customize the look and feel of your device: Many Xposed modules allow you to customize the appearance of your device, including the color scheme, font, and layout of various elements.  Improve battery life: Some Xposed modules are designed to optimize your device's performance and help extend its battery life.  Enhance security: You can use Xposed modules to add additional security features to your device, such as the ability to block certain types of incoming calls or messages.  Remove bloatware: If your device comes with pre-installed apps that you don't want or need, you can use Xposed modules to remove them.",
 					"native": true,
 					"cpa_title": "Download Xposed Installer APK",
-					"cpa_url": "https://virasport.blogspot.com/2023/01/xposed-installer-apk.html"
+					"cpa_url": "https://sites.google.com/view/xposed-installer-app/home"
 				},
 				{
 					"image": "",
 					"text": "Customize app behavior: Some Xposed modules allow you to modify the behavior of individual apps or the Android OS itself. For example, you might be able to change the way a particular app displays notifications, or add new functionality to the system settings menu.  Enable hidden features: Many Xposed modules allow you to unlock hidden features in your device or in specific apps.",
 					"native": true,
 					"cpa_title": "Download Xposed Installer APK",
-					"cpa_url": "https://virasport.blogspot.com/2023/01/xposed-installer-apk.html"
+					"cpa_url": "https://sites.google.com/view/xposed-installer-app/home"
 				}
 				]
             }, {
@@ -88,14 +88,14 @@
 					"text": "o use Xposed Installer properly, there are a few things you should keep in mind:  Make sure your device is compatible: Xposed Installer is only compatible with certain devices that have an unlocked bootloader and a custom recovery tool installed.  Use caution when installing modules: Some modules may not be compatible with your device or may cause problems if used improperly. It is always a good idea to read the description and reviews of a module before installing it.  Keep your device up to date: Make sure to keep your Android OS and Xposed framework up to date to ensure that everything is working properly. You can do this by going to the 'Install/Update' section of the Xposed Installer app.",
 					"native": true,
 					"cpa_title": "Download Xposed Installer APK",
-					"cpa_url": "https://virasport.blogspot.com/2023/01/xposed-installer-apk.html"
+					"cpa_url": "https://sites.google.com/view/xposed-installer-app/home"
 				},
 				{
 					"image": "",
 					"text": "Test modules before using them extensively: It is always a good idea to test out a new module on a limited basis before using it extensively. This will allow you to see how the module affects your device and ensure that it is working properly.  Keep a backup of your device: It is always a good idea to keep a backup of your device in case something goes wrong. This will allow you to restore your device to its previous state if something goes wrong.",
 					"native": true,
 					"cpa_title": "Download Xposed Installer APK",
-					"cpa_url": "https://virasport.blogspot.com/2023/01/xposed-installer-apk.html"
+					"cpa_url": "https://sites.google.com/view/xposed-installer-app/home"
 				}
 				]
             }, {
@@ -106,14 +106,14 @@
 					"text": "Here are a few important tips to keep in mind when using Xposed Installer:  Use caution when installing modules: Some modules may not be compatible with your device or may cause problems if used improperly. It is always a good idea to read the description and reviews of a module before installing it.  Keep your device up to date: Make sure to keep your Android OS and Xposed framework up to date to ensure that everything is working properly. You can do this by going to the 'Install/Update' section of the Xposed Installer app.  Test modules before using them extensively: It is always a good idea to test out a new module on a limited basis before using it extensively. This will allow you to see how the module affects your device and ensure that it is working properly.",
 					"native": true,
 					"cpa_title": "Download Xposed Installer APK",
-					"cpa_url": "https://virasport.blogspot.com/2023/01/xposed-installer-apk.html"
+					"cpa_url": "https://sites.google.com/view/xposed-installer-app/home"
 				},
 				{
 					"image": "",
 					"text": "Keep a backup of your device: It is always a good idea to keep a backup of your device in case something goes wrong. This will allow you to restore your device to its previous state if something goes wrong.  Be aware of the risks: Keep in mind that using Xposed Installer and installing third-party modules can potentially cause problems with your device or void your warranty. Use it at your own risk.",
 					"native": true,
 					"cpa_title": "Download Xposed Installer APK",
-					"cpa_url": "https://virasport.blogspot.com/2023/01/xposed-installer-apk.html"
+					"cpa_url": "https://sites.google.com/view/xposed-installer-app/home"
 				}
 				]
             }
