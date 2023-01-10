@@ -33,15 +33,15 @@
 					"image": "",
 					"text": "Magisk is a systemless root and module management tool for Android devices. It allows you to gain root access on your device without modifying the system partition, which means you can still take OTA updates and pass SafetyNet checks. Here is a general guide on how to use Magisk Manager: First, you'll need to install the Magisk Manager app on your device. You can download the APK file from the official Magisk website and install it manually, or you can use the built-in Magisk Manager app in TWRP recovery to install it. Once the app is installed, open it and go to the 'Install' section. Here, you can choose to install Magisk via a flashable ZIP file, or you can use the 'Direct Install' method. The flashable ZIP method is recommended if you want to keep a copy of the installation file, while the Direct Install method is faster and more convenient. After installation, Magisk will be installed on your device and you will see 'MAGISKSU (topjohnwu)' in the terminal or command prompt when you use the command 'su'. ",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_title": "Download Magisk Manager Apk",
+					"cpa_url": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html"
 				},
 				{
 					"image": "",
 					"text": "You can then install Magisk modules, which are add-ons that can add additional functionality to your device. You can download modules from the Magisk Manager app, or from the Magisk repository on the XDA-Developers forum. To install a module, simply go to the 'Modules' section in the Magisk Manager app and tap the 'Download' button for the module you want to install. Once downloaded, tap the 'Install' button to install the module. Magisk Manager also provide the option to manage the root permissions of an app.You can go to magisk settings, and tap on 'Magisk Hide' and then select the apps for which you want to hide root access. If you need to unroot your device or remove Magisk, you can do so by going to the 'Uninstall' section in the Magisk Manager app and following the instructions. It's also important to keep in mind that rooting your device will void your warranty and that it can also potentially brick your device if done incorrectly. So it is advisable to make a backup of your device before attempting to root it.",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
+					"cpa_title": "Download Magisk Manager Apk",
+					"cpa_url": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html"
 				}
 				]
             }, {
@@ -51,15 +51,15 @@
 					"image": "",
 					"text": "If you're asking about how to use Magisk specifically, the guide I provided earlier in this conversation should help. It covers the steps to install Magisk, install modules, and manage root permissions. If you have any other specific questions or if there is something that is unclear in the guide, feel free to let me know and I'll do my best to help you out. But in general usage for Magisk, after Installation, the app will be in the app drawer, you can use the Magisk Manager app to manage the Magisk framework on your device, including installing and removing modules, managing root access for apps, and more. You can use the Magisk Manager app to ",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_title": "Download Magisk Manager Apk",
+					"cpa_url": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html"
 				},
 				{
 					"image": "",
 					"text": "Install Magisk and manage the root access. Download and install Magisk modules. Check and pass SafetyNet Manage and optimize Magisk hide list. View the complete magisk log And many more Keep in mind that using Magisk and rooting your device can be risky and may potentially brick your device if not done properly, so it is important to be cautious and well-informed before making any changes to your device. ",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
+					"cpa_title": "Download Magisk Manager Apk",
+					"cpa_url": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html"
 				}
 				]
             }, {
@@ -69,15 +69,15 @@
 					"image": "",
 					"text": "Here are some tips for using Magisk: Make a backup of your device before attempting to root it. This will ensure that you can restore your device to its original state in case anything goes wrong during the rooting process. Be sure to keep the Magisk Manager app updated to the latest version. This will ensure that you have access to the latest features and bug fixes. Be cautious when installing Magisk modules. Not all modules are trustworthy and may potentially harm your device. Be sure to read the descriptions and reviews of modules before installing them. Magisk has an option called 'Magisk Hide' that allows you to hide root access from specific apps. This can be useful for passing SafetyNet checks and accessing apps that don't work with rooted devices. Make sure to enable Magisk hide for apps that require it. If you want to uninstall Magisk, it's important to do it using the Magisk Manager app, instead of just removing the files manually. This will ensure that the process is done correctly and that your device's settings and files are not damaged.",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_title": "Download Magisk Manager Apk",
+					"cpa_url": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html"
 				},
 				{
 					"image": "",
 					"text": "Keep a regular check on the Magisk Manager for updates, as this can prevent any potential bugs and errors and also provide new features. Use the Magisk log option to check the log of the activities of Magisk, this will give you a better understanding of what's happening on the background. If you're planning to install custom ROM, be sure to install Magisk prior to install the ROM, as this will ensure that root access is retained after the installation. Many customizations on Magisk can be done via magisk modules, you can check out popular repositories like XDA forum, GitHub and more. Remember, rooting your device and using Magisk can be risky and may potentially brick your device if not done properly, so be sure to do your research and understand the risks before attempting to use it on your device. ",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
+					"cpa_title": "Download Magisk Manager Apk",
+					"cpa_url": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html"
 				}
 				]
             }, {
@@ -87,15 +87,15 @@
 					"image": "",
 					"text": "Using Magisk properly involves taking the necessary precautions and following best practices to ensure a successful and safe rooting experience. Here are some steps you can take to use Magisk properly: Make a full backup of your device before attempting to root it. This will ensure that you can restore your device to its original state in case anything goes wrong during the rooting process. Research and understand the risks associated with rooting your device and using Magisk. Understand that rooting your device may void its warranty and that it can also potentially brick your device if done incorrectly. Use official and trusted sources when downloading Magisk and its modules. The official Magisk website and the XDA-Developers forum are good places to start. Be sure to read the descriptions and reviews of modules before installing them to ensure that they are safe and trustworthy. Make sure that you have the correct version of Magisk for your device's Android version and build number. Different versions of Magisk are compatible with different versions of Android, so be sure to use the correct one for your device. Follow the instructions carefully when installing Magisk. Do not skip any steps or rush the process, as this can cause errors and potentially harm your device. Keep the Magisk Manager app updated to the latest version. This will ensure that you have access to the latest features and bug fixes. ",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_title": "Download Magisk Manager Apk",
+					"cpa_url": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html"
 				},
 				{
 					"image": "",
 					"text": "Use the Magisk Hide feature to hide root access from specific apps that may not work with rooted devices. This can be useful for passing SafetyNet checks and accessing certain apps and services. Before uninstalling Magisk, be sure to remove any installed modules to ensure a clean removal. Then, use the 'Uninstall' option in the Magisk Manager app to properly remove Magisk from your device. Keep a regular check on the Magisk Manager for updates, as this can prevent any potential bugs and errors and also provide new features. Use the Magisk log option to check the log of the activities of Magisk, this will give you a better understanding of what's happening on the background. By following these steps and being cautious, you can use Magisk safely and effectively on your device. But remember it's always best to be careful and follow the instructions properly before taking any action, as it can prevent any potential problem with your device.  ",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
+					"cpa_title": "Download Magisk Manager Apk",
+					"cpa_url": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html"
 				}
 				]
             }, {
@@ -105,15 +105,15 @@
 					"image": "",
 					"text": "Magisk is a powerful tool that comes with a lot of features, some of which include: Systemless Root: Magisk allows you to gain root access on your device without modifying the system partition. This means that you can still take OTA updates and pass SafetyNet checks. Magisk Modules: Magisk allows you to install modules, which are add-ons that can add additional functionality to your device. There are a wide variety of modules available, such as modules for customizing the UI, adding new features, and improving performance. SafetyNet Bypass: Magisk includes a built-in feature that allows you to bypass SafetyNet checks, which is a security feature implemented by Google that prevents certain apps and services from running on rooted devices. Magisk Hide: Magisk Manager allows you to hide root access from specific apps that may not work with rooted devices. This can be useful for passing SafetyNet checks and accessing certain apps and services that may not be available on rooted devices. Superuser Control: Magisk Manager provides an easy way to manage superuser permissions and configure apps that have been granted root access. ",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_title": "Download Magisk Manager Apk",
+					"cpa_url": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html"
 				},
 				{
 					"image": "",
 					"text": "Busybox and MagiskSU: Magisk includes built-in support for Busybox and MagiskSU, which are command-line utilities that provide additional functionality and allow you to run commands with superuser privileges. Multiple Theme Support: Magisk Manager also provides multiple theme support, which means you can customize the look of the app according to your preference. Magisk Log: Magisk also provides a log system, that will help to understand the activity of magisk and how it is functioning on your device. Advanced reboot: Magisk Manager provides an advanced reboot option, which allows users to quickly access recovery mode, bootloader, and other options. These are some of the main features of Magisk, but there are many more. Magisk is a very flexible and powerful tool that can be used for a wide range of tasks, and new features and modules are being developed all the time.",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
+					"cpa_title": "Download Magisk Manager Apk",
+					"cpa_url": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html"
 				}
 				]
             }
