@@ -1,122 +1,130 @@
 {
-    "Ads": {
-        "show_ads": true,
-        "bannerAd": "max",
-        "InterAd": "max",
-        "NativeAd": "max",
-        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native": "ca-app-pub-3940256099942544/2247696110",
-        "facebook_banner": "",
-        "facebook_inter": "",
-        "facebook_native": "",
-        "ironsource_api": "",
-        "max_banner": "",
-        "max_inter": "",
-        "max_native": "",
-        "unityTest": true,
-        "unityGameID": "",
-        "unityBanner": "Banner",
-        "unityInter": "Inter",
-        "intersitial_click_activites": 1,
-        "intersitial_click_list": 3
+	
+  "ironsource_app_key": "xxxx",
+  "ironsource_banner_id": "xxxx",
+  "ironsource_interstitial_id": "xxxx",
+  "ironsource_rewarded_id": "xxxx",
+ 
+  "applovin_banner_id": "xxxx",
+  "applovin_interstitial_id": "xxxx",
+  "applovin_native_id": "xxxx",
+  "applovin_rewarded_id": "xxxx",
+  "max": true,
+  
+  "unity_banner_id": "xxxx",
+  "unity_interstitial_id": "xxxx",
+  "unity_rewarded_id": "xxxx",
+  "unity_app_id": "xxxx",
+  "is_unity_test_mode": true,
+  
+  "admob_banner": "xxxx",
+  "admob_interstitial": "xxxx",
+  "admob_native": "xxxx",
+  "admob_rewarded": "xxxx",
+  
+  "facebook_banner": "xxxx",
+  "facebook_interstitial": "xxxx",
+  "facebook_native": "xxxx",
+  "facebook_rewarded": "xxxx",
+  
 
-    },
+  "Interstitial": "xxxx",
+  "Banner": "xxxx",
+  "Native": "xxxx",
+  "Rewarded": "xxxx",
+  
+  
+  "clicks_to_show_inter": 1,
+  "native_rate": 2,
+  
+  "rating_exit_popup": true,
+  
+  "onesignal_id": "xxxxxxx",
+  
+  "app_suspended": false,
+  "suspended_title": "A new update for this app is available.",
+  "suspended_message": "Update this app because this version has some issues.",
+  "suspended_URL": "xxxx",
 
-    "Data": {
-        "btn_more_title": "More",
-        "btn_more_url": "https://play.google.com/store/apps/developer?id=Patlsapp",
-        "items_data": [{
-                "title": "STEP1",
-                "image": "",
-				"detail": [{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
-				}
-				]
-            }, {
-                "title": "STEP2",
-                "image": "",
-                "detail": [{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
-				}
-				]
-            }, {
-                "title": "STEP3",
-                "image": "",
-                "detail": [{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
-				}
-				]
-            }, {
-                "title": "STEP4",
-                "image": "",
-                "detail": [{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
-				}
-				]
-            }, {
-                "title": "STEP5",
-                "image": "",
-                "detail": [{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
-				}
-				]
-            }
-        ]
-    }
+
+  "guides": [
+	{
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 1,
+	 	 
+	 "showBTN": true,
+	 "BtnURL": "https://www.youtube.com/watch?v=0nyjRMr0uvs",
+	 "BtnTXT": "Click Here"
+	},
+	{
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": true,
+	 "id": 2,
+	 	 
+	 "showBTN": false,
+	 "BtnURL": "xxxx",
+	 "BtnTXT": "xxxx"
+	},
+	{
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 3,
+	 
+	 "showBTN": true,
+	 "BtnURL": "https://www.youtube.com/watch?v=L6jkPoD4D0w",
+	 "BtnTXT": "Click"
+	},
+	{
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 4,
+
+	 "showBTN": false,
+	 "BtnURL": "xxxx",
+	 "BtnTXT": "xxxx"
+	},
+	{
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 5,
+
+	 "showBTN": false,
+	 "BtnURL": "xxxx",
+	 "BtnTXT": "xxxx"
+	},
+	{
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 6,
+
+	 "showBTN": false,
+	 "BtnURL": "xxxx",
+	 "BtnTXT": "xxxx"
+	}
+  ]  
 }
