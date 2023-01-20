@@ -11,9 +11,9 @@
         "facebook_inter": "",
         "facebook_native": "",
         "ironsource_api": "",
-        "max_banner": "",
-        "max_inter": "",
-        "max_native": "",
+        "max_banner": "37670fb339b017e6",
+        "max_inter": "921d3e785b2939d1",
+        "max_native": "c49c41a93c82b9ff",
         "unityTest": true,
         "unityGameID": "",
         "unityBanner": "Banner",
@@ -25,7 +25,7 @@
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "https://play.google.com/store/apps/developer?id=Patlsapp",
+        "btn_more_url": "https://play.google.com/store/apps/developer?id=VivaSoft",
         "items_data": [{
                 "title": "STEP1",
                 "image": "",
