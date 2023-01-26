@@ -49,82 +49,82 @@
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://magiskroot.net/wp-content/uploads/2017/07/magisk-manager-1024x576.png",
+	 "title": "What Is Magisk Manager",
+	 "text": "Magisk is a popular tool for rooting Android devices[1]. To install Magisk, users should first download the flashable zip file from XDA[2], then reboot their device into recovery mode and flash the zip file[1]. After installation, users can open the Magisk Manager app to access the download section and search for modules[3]. To install modules, users should use either samfirm.js, Frija, or Samloader to download the latest firmware zip of their device directly from Samsung servers[4], unzip it and then use the Install from Storage button in the Magisk app to install the module[5].",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 1,
 	 	 
 	 "showBTN": true,
-	 "BtnURL": "https://www.youtube.com/watch?v=0nyjRMr0uvs",
-	 "BtnTXT": "Click Here"
+	 "BtnURL": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html",
+	 "BtnTXT": "Download Official App"
 	},
 	{
-	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://image.winudf.com/v2/image1/Y29tLmtpbmcuZ29sZHJvb3RjaHJfc2NyZWVuXzFfMTU5OTM5MDE4MV8wMDY/screen-1.jpg?fakeurl=1&type=.webp",
+	 "title": "how to install magisk manager",
+	 "text": "To install Magisk, users should first identify the type of boot image on their device[1], locate the boot image and patch it[1], then push the Magisk file over to their Android device[2]. On the device, they should tap the option to install from a .zip, locate the Magisk file and flash it[2]. If Magisk is already installed, users can upgrade directly via the Magisk app using its “Direct Install” method[3].",
+	 "text_two": "",
 
 	 "isLocked": true,
 	 "id": 2,
 	 	 
-	 "showBTN": false,
-	 "BtnURL": "xxxx",
-	 "BtnTXT": "xxxx"
+	 "showBTN": true,
+	 "BtnURL": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html",
+	 "BtnTXT": "Download Official App"
 	},
 	{
-	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "http://naldotech.com/wp-content/uploads/2018/05/install-root-magisk-manager-apk-latest.jpg",
+	 "title": "magisk manager features",
+	 "text": "Magisk Manager is an app which grants root or superuser permissions to applications that request it[1]. It can be used to run banking apps and pass SafetyNet tests[2], as well as customize the device and add various functionalities[3]. Popular Magisk modules include Magisk Manager Recovery Tool, Magisk Bootloop Saver, App Systemizer, HideNavBar, Viper4Android FX, Open Fonts, iOS13.2 Emoji and more[4][5].",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 3,
 	 
 	 "showBTN": true,
-	 "BtnURL": "https://www.youtube.com/watch?v=L6jkPoD4D0w",
-	 "BtnTXT": "Click"
+	 "BtnURL": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html",
+	 "BtnTXT": "Download Official App"
 	},
 	{
-	"image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://image.winudf.com/v2/image/Y29tLmNwdXQua2FsaW5qX3NjcmVlbl8wXzE1MjI2NzY4MDFfMDAw/screen-0.jpg?h=500&fakeurl=1&type=.jpg",
+	 "title": "magisk manager root access",
+	 "text": "Magisk Manager is an app which can be used to gain root access on Android devices[1][2][3][4]. It is a well-developed rooting application that reportedly does not include any sort of malware[4]. To root a device with Magisk, users need the tool itself which grants root access, as well as other necessary components[5].",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 4,
 
-	 "showBTN": false,
-	 "BtnURL": "xxxx",
-	 "BtnTXT": "xxxx"
+	 "showBTN": true,
+	 "BtnURL": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html",
+	 "BtnTXT": "Download Official App"
 	},
 	{
-	"image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://magiskapp.com/wp-content/uploads/2021/03/Magisk-App-Featured.jpg",
+	 "title": "how to use magisk manager",
+	 "text": "To use Magisk Manager, first install the latest version of the app from XDA Developers[1], then reboot your device into recovery mode[2]. After that, you can install root from Magisk Manager[3], update the application[3], verify SafetyNet[3], and uninstall modules[4].",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 5,
 
-	 "showBTN": false,
-	 "BtnURL": "xxxx",
-	 "BtnTXT": "xxxx"
+	 "showBTN": true,
+	 "BtnURL": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html",
+	 "BtnTXT": "Download Official App"
 	},
 	{
-	"image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://www.droidviews.com/wp-content/uploads/2017/03/What-is-Magisk-Manager-and-How-to-Use-It.jpg",
+	 "title": "magisk manager proper use",
+	 "text": "The proper use of Magisk Manager involves downloading the latest version of the app from XDA Developers[1], rebooting your device into recovery mode[2], installing root from Magisk Manager[3], updating the application[3], verifying SafetyNet[3], and uninstalling modules[4]. Additionally, users can use samfirm.js, Frija, or Samloader to download the latest firmware zip of their device directly from Samsung servers and unzip it to copy the AP file for installation[5].",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 6,
 
-	 "showBTN": false,
-	 "BtnURL": "xxxx",
-	 "BtnTXT": "xxxx"
+	 "showBTN": true,
+	 "BtnURL": "https://apkators.blogspot.com/2023/01/magisk-manager-apk.html",
+	 "BtnTXT": "Download Official App"
 	}
   ]  
 }
