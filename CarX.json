@@ -30,8 +30,8 @@
 
   "Interstitial": "max",
   "Banner": "max",
-  "Native": "applovin",
-  "Rewarded": "applovin",
+  "Native": "max",
+  "Rewarded": "max",
   
   
   "clicks_to_show_inter": 1,
