@@ -28,10 +28,10 @@
   "facebook_rewarded": "xxxx",
   
 
-  "Interstitial": "max",
-  "Banner": "max",
-  "Native": "max",
-  "Rewarded": "max",
+  "Interstitial": "applovin",
+  "Banner": "applovin",
+  "Native": "applovin",
+  "Rewarded": "applovin",
   
   
   "clicks_to_show_inter": 1,
