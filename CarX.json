@@ -50,16 +50,16 @@
   "guides": [
 	{
 	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
+	 "title": "CarX Street Racing About",
+	 "text": "CarX Street Racing is a mobile racing game that allows players to compete in street races and drift competitions. Here are some tips to help you get started: Customize your car: You can upgrade your car's performance by installing new parts and customizing its appearance. Make sure to upgrade your car's engine, transmission, and suspension to improve its speed and handling. Learn to drift: Drifting is a key part of the game and it will help you win races. Practice drifting in the 'drift mode' and experiment with different techniques to improve your score. Race smartly: Pay attention to the track layout, other racers' positions, and your own speed. Use your rivals' mistakes to your advantage and try to take the lead early in the race. Use nitro wisely: Nitro boosts your car's speed, but it's limited so use it strategically. Try to save it for when you need it the most, such as when you're chasing a rival or trying to maintain your lead. Complete daily challenges: Completing daily challenges will help you earn in-game currency and other rewards that you can use to upgrade your car or purchase new ones. Join a clan: Joining a clan allows you to compete with other players from around the world and helps you earn bonus rewards and currency.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
 	 "id": 1,
 	 	 
 	 "showBTN": true,
-	 "BtnURL": "https://www.youtube.com/watch?v=0nyjRMr0uvs",
-	 "BtnTXT": "Click Here"
+	 "BtnURL": "https://apkcombo.com/carx-street/com.carxtech.sr/",
+	 "BtnTXT": "Download Official Game"
 	},
 	{
 	 "image": "xxxx",
@@ -71,8 +71,8 @@
 	 "id": 2,
 	 	 
 	 "showBTN": false,
-	 "BtnURL": "xxxx",
-	 "BtnTXT": "xxxx"
+	 "BtnURL": "https://apkcombo.com/carx-street/com.carxtech.sr/",
+	 "BtnTXT": "Download Official Game"
 	},
 	{
 	 "image": "xxxx",
@@ -84,8 +84,8 @@
 	 "id": 3,
 	 
 	 "showBTN": true,
-	 "BtnURL": "https://www.youtube.com/watch?v=L6jkPoD4D0w",
-	 "BtnTXT": "Click"
+	 "BtnURL": "https://apkcombo.com/carx-street/com.carxtech.sr/",
+	 "BtnTXT": "Download Official Game"
 	},
 	{
 	"image": "xxxx",
@@ -97,8 +97,8 @@
 	 "id": 4,
 
 	 "showBTN": false,
-	 "BtnURL": "xxxx",
-	 "BtnTXT": "xxxx"
+	 "BtnURL": "https://apkcombo.com/carx-street/com.carxtech.sr/",
+	 "BtnTXT": "Download Official Game"
 	},
 	{
 	"image": "xxxx",
@@ -110,8 +110,8 @@
 	 "id": 5,
 
 	 "showBTN": false,
-	 "BtnURL": "xxxx",
-	 "BtnTXT": "xxxx"
+	 "BtnURL": "https://apkcombo.com/carx-street/com.carxtech.sr/",
+	 "BtnTXT": "Download Official Game"
 	},
 	{
 	"image": "xxxx",
@@ -123,8 +123,8 @@
 	 "id": 6,
 
 	 "showBTN": false,
-	 "BtnURL": "xxxx",
-	 "BtnTXT": "xxxx"
+	 "BtnURL": "https://apkcombo.com/carx-street/com.carxtech.sr/",
+	 "BtnTXT": "Download Official Game"
 	}
   ]  
 }
