@@ -2,8 +2,8 @@
     "Ads": {
         "show_ads": true,
         "bannerAd": "facebook",
-        "InterAd": "facebook",
-        "NativeAd": "facebook",
+        "InterAd": "max",
+        "NativeAd": "max",
         "admob_banner": "",
         "admob_inter": "ca-app-pub-4742061021453183/1910057787",
         "admob_native": "ca-app-pub-5464787354685915/9679663130",
@@ -11,9 +11,9 @@
         "facebook_inter": "3320277621570135_3320997464831484",
         "facebook_native": "3320277621570135_3320998398164724",
         "ironsource_api": "",
-        "max_banner": "02e0999cbeb4efe8",
-        "max_inter": "cbeb62ea1d7d7a96",
-        "max_native": "13eff5ab3cac5814",
+        "max_banner": "",
+        "max_inter": "32485de594ef0925",
+        "max_native": "35180f1c4178cf0c",
         "unityTest": true,
         "unityGameID": "",
         "unityBanner": "Banner",
@@ -27,92 +27,92 @@
         "btn_more_title": "More",
         "btn_more_url": "https://play.google.com/store/apps/developer?id=AmbuSoft",
         "items_data": [{
-                "title": "Guide 1",
-                "image": "https://i.ytimg.com/vi/ONqCeUmVWCQ/maxresdefault.jpg",
+                "title": "AirMore File Transfer About",
+                "image": "https://s.cafebazaar.ir/images/upload/screenshot/com.airmore-4d8e2f71-0422-4edb-9721-7f3bb599675f.jpeg?x-img=v1/resize,h_300,lossless_true",
 				"detail": [{
 					"image": "",
-					"text": "The Joy-Cons are controllers for the Nintendo Switch video game console that can be used in a variety of different ways. They can be used attached to the Switch console, held in your hands as traditional controllers, or used wirelessly with Bluetooth. They can also be used separately, with one Joy-Con in each hand, or paired with another Joy-Con to share control of a game. - Here are a few things you might want to know about Joy-Cons: - The Joy-Cons are equipped with motion control sensors and HD Rumble, which allows them to detect the motion and vibrations of the controllers. This can be used in a variety of different games to add a new level of immersion.",
+					"text": "AirMore is a cross-platform file transfer app that allows users to transfer files between their mobile devices and PC without using cables or installing any software. The app can be accessed through a web browser, which means users don't need to download any additional software or application to use it. To use AirMore you need to have both your mobile device and PC connected to the same Wi-Fi network. Once you have both devices connected follow these steps to transfer files using AirMore: Open the AirMore app on your mobile device or visit the AirMore website on your PC.",
 					"native": true,
-					"cpa_title": "Download JoyCon Droid APK",
+					"cpa_title": "Download AirMore APK",
+					"cpa_url": "https://apkators.blogspot.com/2023/03/airmore-file-transfer-apk.html?m=1"
+				},
+				{
+					"image": "",
+					"text": "Use the QR code scanner to scan the QR code displayed on the AirMore web page. This will establish a connection between your mobile device and PC. Once the connection is established you can browse and select the files you want to transfer from your mobile device. After selecting the files click the 'Transfer' button to start transferring the files from your mobile device to your PC or vice versa. AirMore supports a wide range of file types, including documents, photos, music, videos, and more. It also allows users to manage their files, delete unwanted files, and create new folders.",
+					"native": true,
+					"cpa_title": "Download AirMore APK",
 					"cpa_url": "https://apkators.blogspot.com/2023/01/joycon-droid-app.html"
-				},
-				{
-					"image": "",
-					"text": "Each Joy-Con has a variety of buttons, including a joystick, A/B/X/Y buttons, a shoulder button, and a 'minus' and 'plus' button. There is also a 'Capture' button on the left Joy-Con that allows you to take screenshots or record video. - The Joy-Cons are powered by a rechargeable battery that can last for up to 20 hours on a single charge. They can be charged by attaching them to the Switch console, or by using a separate Joy-Con charging grip accessory. - If you lose or damage your Joy-Cons, you can purchase replacements from Nintendo or from a third-party retailer. It's also possible to purchase additional Joy-Cons in different colors, such as neon green and neon pink. ",
-					"native": true,
-					"cpa_title": "Download JoyCon Droid APK",
-					"cpa_url": "https://apkators.blogspot.com/2023/01/joycon-droid-app.html"
 				}
 				]
             }, {
-                "title": "Guide 2",
-                "image": "https://i.ytimg.com/vi/lG5I6U7_OIc/maxresdefault.jpg",
+                "title": "How To Use"",
+                "image": "https://airmore.com/wp-content/uploads/2017/07/use-airmore.jpg",
                 "detail": [{
 					"image": "",
-					"text": "-Sure, here are a few more things you might find useful to know about Joy-Cons: -The Joy-Cons can be used to play local multiplayer games on the Switch console. For example, if you have two people playing on the same Switch, each player can use a single Joy-Con as a controller. This is a great feature for games like Mario Kart and Super Smash Bros. -The Joy-Cons can be used to play games on other devices, such as a Windows PC or a smartphone. To do this, you'll need to pair the Joy-Cons with your device using Bluetooth. You can find instructions for doing this in the Switch's user manual or online. ",
+					"text": "To use AirMore, follow these steps: Install AirMore on your mobile device: AirMore is available for both Android and iOS devices. You can download it from the App Store or Google Play Store. Connect your mobile device and PC to the same Wi-Fi network: AirMore requires both your mobile device and PC to be connected to the same Wi-Fi network for file transfer. Open AirMore on your mobile device: Launch the AirMore app on your mobile device. Open AirMore on your PC: Visit the AirMore website (https://airmore.com/) on your PC browser.",
 					"native": true,
-					"cpa_title": "Download JoyCon Droid APK",
+					"cpa_title": "",
 					"cpa_url": ""
 				},
 				{
 					"image": "",
-					"text": "The Joy-Cons have a feature called 'HD Rumble' that can produce very subtle vibrations to give you a sense of touch and movement. This can be used in a variety of creative ways in different games, such as feeling the sensation of a glass filling up with liquid or a character walking on different surfaces.  The Joy-Cons have a 'sleep mode' that helps to conserve battery life when they are not in use. To put the Joy-Cons into sleep mode, simply detach them from the Switch console or turn off the console. You can also put the Joy-Cons into sleep mode by pressing and holding the 'Sync' button on the back of the controller for 3 seconds. ",
+					"text": "Scan the QR code: On the AirMore app on your mobile device, tap on the 'Scan to connect' button and scan the QR code displayed on the AirMore website on your PC. Allow access: Allow AirMore to access your files and media on your mobile device. Start transferring files: Once you're connected, you can start transferring files between your mobile device and PC. You can select the files you want to transfer and click the (Transfer) button to start the transfer. AirMore also allows you to manage your files, delete unwanted files, create new folders, and more. The app is user-friendly and intuitive, so you can easily navigate through the interface and transfer files in just a few clicks.",
 					"native": true,
-					"cpa_title": "Download JoyCon Droid APK",
+					"cpa_title": "",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "Guide 3",
-                "image": "https://i.ytimg.com/vi/ZGgsIJG2Q5w/maxresdefault.jpg",
+                "title": "Proper Use",
+                "image": "https://s.cafebazaar.ir/images/upload/screenshot/com.airmore-cb479d2c-8c76-47e8-9a01-9f763c250be5.jpeg?x-img=v1/resize,h_300,lossless_true",
                 "detail": [{
 					"image": "",
-					"text": "Certainly! Here are a few more things you might find useful to know about the Joy-Cons:  The Joy-Cons have a feature called 'IR Motion Camera' that allows them to detect the distance, shape, and motion of objects in front of them. This can be used in a variety of different games to add a new level of interactivity. For example, in the game 1-2-Switch, you can use the Joy-Cons to play games like 'Quick Draw' and 'Milk' where you use the motion controls to mimic the actions of drawing a gun or milking a cow.  The Joy-Cons can be used to play games on the Nintendo Switch Lite, a handheld version of the Switch console that does not have detachable controllers. To do this, you'll need to purchase a separate set of Joy-Cons or use a third-party controller that is compatible with the Switch Lite. ",
+					"text": "When using AirMore, there are a few things to keep in mind to ensure proper use: Use a secure Wi-Fi network: Make sure that you are connected to a secure Wi-Fi network when using AirMore to transfer files. Avoid using public Wi-Fi networks as they can be easily hacked, and your data may be compromised. Keep your devices updated: Make sure that you have the latest version of AirMore installed on your mobile device and that your PC browser is updated. This ensures that you have the latest security features and bug fixes. Select the right files: When transferring files, make sure that you are selecting the right files. Check the file size, format, and content to ensure that you are transferring the correct files.",
 					"native": true,
-					"cpa_title": "Download JoyCon Droid APK",
+					"cpa_title": "",
 					"cpa_url": ""
 				},
 				{
 					"image": "",
-					"text": "The Joy-Cons have a feature called 'Player Indicator' that allows you to customize the color of the LED lights on the controllers. The colors can be changed in the controller settings menu on the Switch console. This can be useful if you are playing a game with multiple players and want to easily distinguish between the controllers.  The Joy-Cons have a 'home' button that allows you to return to the main menu of the Switch console at any time. You can also use the home button to access the controller settings menu, where you can adjust the sensitivity of the joystick, change the player indicator colors, and perform other controller-related tasks. ",
+					"text": "Follow instructions carefully: Follow the instructions provided by AirMore carefully to avoid any errors or issues. Read through the prompts and messages displayed on both your mobile device and PC browser to ensure that you are following the correct steps. Use password protection: AirMore allows you to password-protect your connections to prevent unauthorized access. Make sure to use a strong password to protect your data. By following these tips, you can ensure that you are using AirMore correctly and that your data is secure during the transfer process.",
 					"native": true,
-					"cpa_title": "Download JoyCon Droid APK",
+					"cpa_title": "",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "Guide 4",
-                "image": "https://imag.malavida.com/mvimgbig/download-fs/joycon-droid-26632-6.jpg",
+                "title": "Features",
+                "image": "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/29588186-042a-11e7-9e1e-28f5b4e41777/3180747322/airmore-file-transfer-screenshot.png",
                 "detail": [{
 					"image": "",
-					"text": "Certainly! Here are a few more things you might find interesting to know about the Joy-Cons:  The Joy-Cons have a feature called 'Amiibo support' that allows you to use Amiibo figures with compatible games on the Switch. Amiibo are collectible figures that have NFC (Near Field Communication) chips embedded in them, which can be read by the Joy-Cons or the Switch console to unlock special in-game content or features. To use an Amiibo with the Joy-Cons, you'll need to touch the base of the figure to the right Joy-Con's joystick.  The Joy-Cons have a feature called 'Handheld Mode' that allows you to play games on the Switch console using the controllers in a traditional handheld configuration. To use the Joy-Cons in handheld mode, you'll need to attach them to the included Joy-Con grip accessory, which holds the controllers in a more comfortable position for extended play sessions. ",
+					"text": "AirMore offers several features that make it a popular file transfer app. Here are some of the key features of AirMore: Wireless file transfer: AirMore allows you to transfer files wirelessly between your mobile device and PC. You can transfer files such as photos, videos, music, documents, and more. Cross-platform compatibility: AirMore works on both Android and iOS devices and is compatible with all major browsers, including Chrome, Safari, Firefox, and more. No cables or software required: With AirMore, you don't need any cables or software to transfer files. The app is web-based, and you can access it through your browser.",
 					"native": true,
-					"cpa_title": "Download JoyCon Droid APK",
+					"cpa_title": "",
 					"cpa_url": ""
 				},
 				{
 					"image": "",
-					"text": "The Joy-Cons have a feature called 'Controller Swap' that allows you to switch the button mapping of the controllers, so that the 'A' button is on the left and the 'B' button is on the right. This can be useful if you prefer a different button layout or if you are left-handed. To switch the button mapping, you'll need to access the controller settings menu on the Switch console.  The Joy-Cons have a feature called 'Local Wireless Play' that allows you to connect to other Switch consoles in the same room to play multiplayer games. To use this feature, you'll need to place the Switch consoles close to each other and select the 'Local Wireless Play' option from the multiplayer menu. You can then invite other players to join your game and play together using their own Joy-Cons or compatible controllers.  ",
+					"text": "Large file transfer: AirMore allows you to transfer large files up to 200MB in size, which is higher than most other file transfer apps. File management: AirMore also allows you to manage your files. You can create folders, delete unwanted files, and view your file history. Password protection: AirMore allows you to password-protect your connections to prevent unauthorized access. Mirror phone screen: AirMore also has a screen mirroring feature that allows you to mirror your mobile device's screen on your PC. This is useful when you want to view photos, videos, or other media on a larger screen. Overall, AirMore is a user-friendly and versatile file transfer app that offers several features to make file transfer easy and convenient.",
 					"native": true,
-					"cpa_title": "Download JoyCon Droid APK",
+					"cpa_title": "",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "Guide 5",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/01/wii-u-switch-760x380.jpg",
+                "title": "Important Tips",
+                "image": "https://mobiletrans.wondershare.com/images/images2019/airmore-file-transfer-1.jpg",
                 "detail": [{
 					"image": "",
-					"text": "Certainly! Here are a few more things you might find interesting to know about the Joy-Cons:  The Joy-Cons have a feature called 'Grip Assist' that helps to prevent them from slipping out of your hands when playing games. The controllers have a textured surface and a gentle slope that allows them to sit comfortably in your palms.  The Joy-Cons have a feature called 'Slide-On Design' that allows you to easily attach and detach them from the Switch console or the Joy-Con grip accessory. To attach the Joy-Cons, simply align them with the rails on the top or bottom of the console and slide them into place. To detach them, press the release buttons on the back of the controllers and slide them out. ",
+					"text": "Here are some important tips to keep in mind when using AirMore: Use a strong password: When setting up a connection between your mobile device and PC, make sure to use a strong password to protect your data from unauthorized access. Use a secure Wi-Fi network: Ensure that you're using a secure Wi-Fi network to avoid any potential security issues. Check the file size: Before transferring files, check the file size to ensure that the transfer can be completed without any issues. Follow the instructions: Follow the instructions provided by AirMore carefully to avoid any errors or issues.",
 					"native": true,
-					"cpa_title": "Download JoyCon Droid APK",
+					"cpa_title": "",
 					"cpa_url": ""
 				},
 				{
 					"image": "",
-					"text": "The Joy-Cons have a feature called 'Turbo Mode' that allows you to hold down a button to make it repeat automatically. This can be useful in games where you need to rapidly press a button, such as in a fighting game or a rhythm game. To use Turbo Mode, you'll need to access the controller settings menu on the Switch console and enable the feature for the button of your choice.  The Joy-Cons have a feature called 'Motion Controls' that allows you to use the controllers like a Wii Remote to play games that require physical movement. To use the Motion Controls, you'll need to enable the feature in the controller settings menu on the Switch console. You can then tilt, twist, or swing the Joy-Cons to perform different actions in compatible games. ",
+					"text": "Keep your devices up to date: Ensure that you have the latest version of AirMore installed on your mobile device and that your PC browser is updated to ensure that you have the latest security features and bug fixes. Don't transfer sensitive data: Avoid transferring sensitive or confidential data through AirMore to prevent any potential security risks. Disconnect when done: Always remember to disconnect your devices once the transfer is complete to avoid any unauthorized access. By following these tips, you can ensure that you're using AirMore correctly and that your data is secure during the transfer process.",
 					"native": true,
-					"cpa_title": "Download JoyCon Droid APK",
+					"cpa_title": "",
 					"cpa_url": ""
 				}
 				]
