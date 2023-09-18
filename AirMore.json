@@ -1,7 +1,7 @@
 {
     "Ads": {
         "show_ads": true,
-        "bannerAd": "facebook",
+        "bannerAd": "max",
         "InterAd": "max",
         "NativeAd": "max",
         "admob_banner": "",
@@ -11,7 +11,7 @@
         "facebook_inter": "1066428127673735_1072917837024764",
         "facebook_native": "1066428127673735_1072917973691417",
         "ironsource_api": "",
-        "max_banner": "",
+        "max_banner": "5cb59aeda0a329c3",
         "max_inter": "32485de594ef0925",
         "max_native": "35180f1c4178cf0c",
         "unityTest": true,
